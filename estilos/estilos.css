@@ -1,0 +1,44 @@
+/*ESTILOS INICIO*/
+.facultad {
+    background-color: rgb(232, 241, 241);
+}
+
+.color-text {
+    color: #0059ff; 
+}
+
+.tamaño-text {
+    font-size: 23px; 
+}
+
+.margen {
+    margin-bottom: 3rem;
+}
+
+.color-div {
+    background-color: rgb(216, 226, 226);
+}
+
+
+/*ESTILOS CONTACTO*/
+.d-grid.gap-2.d-md-flex.justify-content-md-end {
+    margin-top: 10px;
+}
+
+.contacto {
+    background-color: rgb(232, 241, 241);
+}
+
+
+
+/*ESTILOS ALUMNOS*/
+.alumnos {
+    background-color: rgb(232, 241, 241);
+}
+
+
+
+/*ESTILOS MATERIAS*/
+.materias {
+    background-color: rgb(232, 241, 241);
+}
